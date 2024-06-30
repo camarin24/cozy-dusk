@@ -2,9 +2,15 @@
   "name": "cozy-dusk",
   "displayName": "Cozy Dusk",
   "description": "Cozy Dusk theme",
-  "version": "0.0.1",
+  "publisher": "camarin24",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.90.0"
+  },
+  "author": "camarin24",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camarin24/cozy-dusk"
   },
   "categories": [
     "Themes"
