@@ -1,0 +1,21 @@
+{
+  "name": "cozy-dusk",
+  "displayName": "Cozy Dusk",
+  "description": "Cozy Dusk theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cozy Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cozy Dusk-color-theme.json"
+      }
+    ]
+  }
+}
