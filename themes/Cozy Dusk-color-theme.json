@@ -487,7 +487,6 @@
 			],
 			"settings": {
 				"foreground": "#F28779",
-				"fontStyle": "",
 			}
 		},
 		{
@@ -557,7 +556,7 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#f28779"
+				"foreground": "#FFDFB3"
 			}
 		},
 		{
@@ -1065,7 +1064,7 @@
 				"entity.name.type.class"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "italic bold",
 				"foreground": "#9CD1BB"
 			}
 		},
